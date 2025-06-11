@@ -75,4 +75,20 @@ document.addEventListener('DOMContentLoaded', () => {
       previewOverlay.classList.add('hidden');
     }
   });
+
 })
+
+/*Código adicionado para verificação de tamanho de tela  */
+
+  div.addEventListener('click', () => {
+  previewMedia.innerHTML = '';
+  
+  const content = previewOverlay.querySelector('.preview-content');
+  content.style.animation = 'none';
+  void content.offsetWidth;
+  content.style.animation = 'fadeInScale 0.3s ease';
+
+  // Verificar se é mobile para decidir o layout
+  const isMobile = window.innerWidth <= 768;
+  content.classList.toggle('vertical', !isMobile && tempImage.height / tempImage.width > 1.3);
+});
