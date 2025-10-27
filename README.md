@@ -1,6 +1,6 @@
 # Site Institucional – Projesom Eventos de Sonorização
 
-**Resumo:**  
+## Resumo:  
 O projeto **Projesom** consiste no desenvolvimento de um **site institucional moderno e responsivo** para a empresa **PROJESOM EVENTOS DE SONORIZAÇÃO LTDA**, que atua na área de sonorização, montagem de palco e iluminação para eventos.  
 O site foi criado como parte de um **projeto acadêmico da disciplina de Empreendedorismo**, com o objetivo de renovar a presença digital da empresa e torná-la mais atrativa e funcional.
 
@@ -80,6 +80,13 @@ projesom/
 
 O design foi construído para transmitir **profissionalismo e modernidade**, refletindo o perfil da empresa.  
 A logo da Projesom (representando pulsação sonora) foi utilizada como elemento central da identidade visual do site.
+
+---
+
+## 🌐 Demonstração Online
+
+O site está disponível publicamente em:
+👉 https://higorvaluar.github.io/projesom/
 
 ---
 
